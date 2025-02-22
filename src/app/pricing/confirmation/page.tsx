@@ -27,7 +27,7 @@ const SubscriptionConfirmation = () => {
             <p className="text-gray-600">
               Veuillez vérifier votre boîte de réception dans environ une heure.
               Nous vous enverrons un email contenant les informations importantes
-              concernant votre abonnement.
+              concernant votre abonnement
             </p>
             
             <div className="bg-blue-50 p-4 rounded-lg">
