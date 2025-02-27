@@ -42,7 +42,7 @@ const SubscriptionConfirmation = () => {
            onClick={handleNavigate}
             className="w-full flex items-center justify-center gap-2"
           >
-            <Home className="w-4 h-4" />
+          
             <ArrowRight className="w-4 h-4" />
           </Button>
         </CardContent>
