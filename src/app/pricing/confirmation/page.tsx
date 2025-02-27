@@ -43,7 +43,6 @@ const SubscriptionConfirmation = () => {
             className="w-full flex items-center justify-center gap-2"
           >
             <Home className="w-4 h-4" />
-            Retour à l'accueil
             <ArrowRight className="w-4 h-4" />
           </Button>
         </CardContent>
