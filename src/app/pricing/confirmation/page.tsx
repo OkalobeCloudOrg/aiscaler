@@ -31,10 +31,7 @@ const SubscriptionConfirmation = () => {
             </p>
             
             <div className="bg-blue-50 p-4 rounded-lg">
-              <p className="text-sm text-blue-700">
-                Si vous ne recevez pas l&ps;email dans l'heure qui suit,
-                veuillez vérifier votre dossier spam.
-              </p>
+             
             </div>
           </div>
 
