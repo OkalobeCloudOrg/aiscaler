@@ -24,10 +24,6 @@ const SubscriptionConfirmation = () => {
         
         <CardContent className="space-y-6">
           <div className="text-center space-y-4">
-            <p className="text-gray-600">
-              Veuillez vérifier votre boîte de réception dans environ une heure.
-              Nous vous enverrons un email contenant les informations importantes
-            </p>
             
             <div className="bg-blue-50 p-4 rounded-lg">
              
